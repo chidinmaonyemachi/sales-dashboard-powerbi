@@ -35,13 +35,19 @@ Data cleaning was performed using Power Query, including:
 - Business Risks
 - Business Opportunities
 - Executive Recommendations
-  ## Dashboard Preview
+ ## Dashboard Preview
 
 ### Main Dashboard
-![Dashboard](Dashboard/Dashboard Screenshot.png)
+
+![Dashboard](images/Dashboard%20Screenshot.png)
 
 ### Insights Page
-![Insights](images/Insights Page.png)
+
+![Insights](images/Insight%20Page.png)
+
+### Data Model
+
+![Data Model](images/Data%20Modal.png)
 ## Key Findings
 
 - West region generated the highest sales.
