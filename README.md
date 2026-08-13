@@ -38,10 +38,10 @@ Data cleaning was performed using Power Query, including:
   ## Dashboard Preview
 
 ### Main Dashboard
-![Dashboard](Assets/Dashboard Overview.png)
+![Dashboard](Dashboard/Dashboard Screenshot.png)
 
 ### Insights Page
-![Insights](Assets/Insights Page.png)
+![Insights](Images/Insights Page.png)
 ## Key Findings
 
 - West region generated the highest sales.
