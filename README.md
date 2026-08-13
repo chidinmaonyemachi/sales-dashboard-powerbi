@@ -41,7 +41,7 @@ Data cleaning was performed using Power Query, including:
 ![Dashboard](Dashboard/Dashboard Screenshot.png)
 
 ### Insights Page
-![Insights](Images/Insights Page.png)
+![Insights](images/Insights Page.png)
 ## Key Findings
 
 - West region generated the highest sales.
