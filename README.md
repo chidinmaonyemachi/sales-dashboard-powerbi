@@ -39,7 +39,7 @@ Data cleaning was performed using Power Query, including:
 
 ### Main Dashboard
 
-![Dashboard](images/Dashboard%20Screenshot.png)
+![Dashboard](Dashboard/Dashboard%20Screenshot.png)
 
 ### Insights Page
 
