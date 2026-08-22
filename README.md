@@ -369,9 +369,17 @@ The Power BI dashboard includes:
 
 ![Insights](images/Insight%20Page.png)
 
-## Data Model
+## Advanced Dashboard 1
 
-![Data Model](images/Data%20Modal.png)
+![Dashboard](Dashboard/adv%20sales%201.png)
+
+## Advanced Dashboard 2
+
+![Dashboard](Dashboard/adv%20sales%202.png)
+
+## Advanced Dashboard 3
+
+![Dashboard](Dashboard/adv%20sales%202.png)
 
 ---
 
